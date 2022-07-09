@@ -107,3 +107,4 @@ VALUES(6,3,'2020-05-24');
 INSERT INTO visits (animal_id, vet_id,date_of_visit)
 VALUES(6,1,'2021-01-11');  
 -- //Blossom
+
