@@ -21,7 +21,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 👤 **Author1**
 
-- GitHub: [@Theophileash](https://github.com/Theophileaseh)
+- GitHub: [@Theophileaseh](https://github.com/Theophileaseh)
 - Twitter: [@NwachanT](https://twitter.com/NwachanT)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/nwachan-theophile)
 
